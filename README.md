@@ -35,8 +35,7 @@ python train.py
 ```
 
 ### Searching
-Please get train set and valid set ready
-If you want to train your own model on a new dataset, run *train.py*. Only low light images are needed.
+Please get train set and valid set ready, and run *train_search.py*.
 Due to the data you used is different from ours, it is reasonable that the searched architecture is different from ours.
 ```
 python train_search.py 
