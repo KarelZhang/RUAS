@@ -41,4 +41,15 @@ Due to the data you used is different from ours, it is reasonable that the searc
 python train_search.py 
 ```
 
+###Reference
+If you find our work useful in your research please consider citing our paper:
+```
+@inproceedings{ruas2021,
+  title     = {Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement},
+  author    = {Risheng Liu and Long Ma and Jiaao Zhang and Xin Fan and Zhongxuan Luo},
+  booktitle = {CVPR},
+  year = {2021}
+}
+```
+
 A great thanks to [DARTS](https://github.com/quark0/darts) for providing the basis for this code.
