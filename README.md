@@ -46,11 +46,11 @@ python train_search.py
 
 If you find our work useful in your research please consider citing our paper:
 ```
-@inproceedings{ruas2021,
-  title     = {Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement},
-  author    = {Risheng Liu and Long Ma and Jiaao Zhang and Xin Fan and Zhongxuan Luo},
-  booktitle = {CVPR},
-  year = {2021}
+@inproceedings{liu2021ruas,
+title = {Retinex-inspired Unrolling with Cooperative Prior Architecture Search for Low-light Image Enhancement},
+author = {Risheng, Liu and Long, Ma and Jiaao, Zhang and Xin, Fan and Zhongxuan, Luo},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+year = {2021}
 }
 ```
 
